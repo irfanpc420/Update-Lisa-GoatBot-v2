@@ -37,6 +37,9 @@
   "adminBot": [
     "61567840496026"
   ],
+  "nisanBot": [
+    "8672850822768289"
+  ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
@@ -44,7 +47,7 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝚄𝚙𝚍𝚊𝚝𝚎-𝙻𝚒𝚜𝚊-𝙶𝚘𝚊𝚝𝚋𝚘𝚝",
+  "nickNameBot": "𝙻𝚒𝚜𝚊-𝙶𝚘𝚊𝚝𝚋𝚘𝚝-ᴠ2",
   "prefix": "-",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
